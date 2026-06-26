@@ -18,7 +18,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "DealFlow — UAE Distressed Property Exchange",
+  title: "PropRadar — UAE Distressed Property Exchange",
   description:
     "AI-powered, credibility-gated marketplace connecting distressed UAE real estate to qualified investors.",
 };

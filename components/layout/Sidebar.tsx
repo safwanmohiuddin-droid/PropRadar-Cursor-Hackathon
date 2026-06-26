@@ -30,7 +30,7 @@ export default function Sidebar() {
             D
           </div>
           <div>
-            <p className="text-sm font-semibold text-zinc-50">DealFlow</p>
+            <p className="text-sm font-semibold text-zinc-50">PropRadar</p>
             <p className="text-[10px] text-zinc-500">UAE Distressed Exchange</p>
           </div>
         </div>

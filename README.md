@@ -1,4 +1,4 @@
-# DealFlow — UAE Distressed Property Deal Platform
+# PropRadar — UAE Distressed Property Deal Platform
 
 A two-sided, AI-powered marketplace where sellers publish distressed real-estate deals, Claude scores and matches them to investors, and a **credibility-gated bidding platform** allocates slots only to serious, verified buyers.
 
@@ -10,7 +10,7 @@ A two-sided, AI-powered marketplace where sellers publish distressed real-estate
 
 UAE distressed property deals are opaque, chaotic, and dominated by unserious buyers who waste sellers' time. There is no structured, AI-powered pipeline connecting distressed assets to qualified investors through a trust-verified process.
 
-## 2. What DealFlow Does
+## 2. What PropRadar Does
 
 **Step 1 — List.** A seller publishes a distress deal with pricing and urgency details.
 
