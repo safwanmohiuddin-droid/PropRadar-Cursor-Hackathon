@@ -18,7 +18,7 @@ export default function WhatsAppThread({
 
   const waNumber = conversation.participant_phone.replace(/[^\d]/g, "");
   const waLink = `https://wa.me/${waNumber}?text=${encodeURIComponent(
-    `Hi ${conversation.participant_name}, regarding ${conversation.deal_title} on PropRadar`,
+    `Hi ${conversation.participant_name}, regarding ${conversation.deal_title} on DealFlow`,
   )}`;
 
   function send() {
