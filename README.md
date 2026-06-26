@@ -1,8 +1,12 @@
 # DealFlow — UAE Distressed Property Deal Platform
 
+### 🔗 Live demo: **https://dealflow-opal-two.vercel.app**
+
 A two-sided, AI-powered marketplace where sellers publish distressed real-estate deals, Claude scores and matches them to investors, and a **credibility-gated bidding platform** allocates slots only to serious, verified buyers.
 
 > Built for the Abu Dhabi AI PropTech Challenge using the starter-kit datasets. The app runs **fully offline on deterministic mock AI** — add an Anthropic key to switch on live Claude reasoning.
+>
+> **Live app:** https://dealflow-opal-two.vercel.app · **Track:** Investment Intelligence · **Team:** Shadow Brokers
 
 ---
 
